@@ -1,0 +1,11 @@
+mettre en mode release
+lancer
+chercher dans le dossier le .exe
+le coller dans un autre dossier
+ouvrir Qt 6.
+si on est dans un autre repertoire faire U: ou E: 
+puis "cd" l'emplacement du dossier
+dir
+taper le commande "windeployqt.exe -quick ."
+dir 
+puis retourner dans le dossier et executer le .exe

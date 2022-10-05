@@ -1,0 +1,38 @@
+﻿  CapteurTemperature.cpp
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(22,7): warning C4552: '/' : résultat de l'expression non utilisé
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(23,6): warning C4552: '>=' : résultat de l'expression non utilisé
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(24,6): warning C4552: '<=' : résultat de l'expression non utilisé
+  CapteurTemperatureExterieure.cpp
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): error C2563: incompatibilité dans la liste de paramètres formels
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): error C2568: '&&' : impossible de résoudre la surcharge de fonction
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): message : est peut-être '_Ty std::max(std::initializer_list<_Elem>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): message : ou       '_Ty std::max(std::initializer_list<_Elem>,_Pr)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): message : ou       'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): message : ou       'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,6): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,23): error C2143: erreur de syntaxe : absence de ')' avant 'constante'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,5): error C2451: une expression conditionnelle de type 'overloaded-function' est non valide
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,6): message : Le contexte ne permet pas de lever l'ambiguïté de la fonction surchargée
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(10,25): error C2059: erreur de syntaxe : ')'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(12,3): error C2059: erreur de syntaxe : 'return'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,2): error C2059: erreur de syntaxe : 'if'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): error C2563: incompatibilité dans la liste de paramètres formels
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): error C2568: '&&' : impossible de résoudre la surcharge de fonction
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): message : est peut-être '_Ty std::min(std::initializer_list<_Elem>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): message : ou       '_Ty std::min(std::initializer_list<_Elem>,_Pr)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): message : ou       'const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(14,22): message : ou       'const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(15,2): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(15,2): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(18,1): error C2059: erreur de syntaxe : '}'
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperatureExterieure.cpp(18,1): error C2143: erreur de syntaxe : absence de ';' avant '}'
+  TestCapteurs_A_Completer.cpp
+C:\Users\snir\Desktop\DS_LEBEGUE\TestCapteurs_A_Completer.cpp(74,46): error C2059: erreur de syntaxe : '...'
+C:\Users\snir\Desktop\DS_LEBEGUE\TestCapteurs_A_Completer.cpp(86,46): error C2059: erreur de syntaxe : '...'
+C:\Users\snir\Desktop\DS_LEBEGUE\TestCapteurs_A_Completer.cpp(92,46): error C2059: erreur de syntaxe : '...'
+  Génération de code en cours...
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(26): error C4716: 'CapteurTemperature::getTemperature' : doit retourner une valeur
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(25): error C4700: variable locale 'max' non initialisée utilisée
+C:\Users\snir\Desktop\DS_LEBEGUE\CapteurTemperature.cpp(25): error C4700: variable locale 'min' non initialisée utilisée

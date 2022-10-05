@@ -1,0 +1,2 @@
+C:\Users\snir\source\repos\Info\VR\Programation\Héritage\ExoCours\Heritage\x64\Debug\Heritage.exe
+C:\Users\snir\source\repos\Info\VR\Programation\Héritage\ExoCours\HeritageDynamique\x64\Debug\Heritage.exe

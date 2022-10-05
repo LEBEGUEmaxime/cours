@@ -1,0 +1,3 @@
+﻿  RevisionStructure.cpp
+C:\Users\snir\source\repos\Tableaux\Révision tableau et chaine\RevisionStructure.cpp(15,29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\snir\source\repos\Tableaux\Révision tableau et chaine\RevisionStructure.cpp(15,29): error C2143: erreur de syntaxe : absence de ',' avant '&'

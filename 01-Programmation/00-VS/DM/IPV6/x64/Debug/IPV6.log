@@ -1,0 +1,13 @@
+﻿  IPV6.cpp
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(10,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(16,19): warning C4267: '=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+  Main.cpp
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(10,28): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(16,19): warning C4267: '=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+Main.obj : error LNK2005: "void __cdecl affichage(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > const &)" (?affichage@@YAXAEBV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z) déjà défini(e) dans IPV6.obj
+Main.obj : error LNK2005: "private: void __cdecl IPV6::reconstructionFinale(void)" (?reconstructionFinale@IPV6@@AEAAXXZ) déjà défini(e) dans IPV6.obj
+Main.obj : error LNK2005: "private: void __cdecl IPV6::remplacementSuiteDeZeros(void)" (?remplacementSuiteDeZeros@IPV6@@AEAAXXZ) déjà défini(e) dans IPV6.obj
+Main.obj : error LNK2005: "private: static class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl IPV6::split(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char)" (?split@IPV6@@CA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@D@Z) déjà défini(e) dans IPV6.obj
+Main.obj : error LNK2005: "private: void __cdecl IPV6::suppressionDesZerosDeDebut(void)" (?suppressionDesZerosDeDebut@IPV6@@AEAAXXZ) déjà défini(e) dans IPV6.obj
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\x64\Debug\IPV6.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés

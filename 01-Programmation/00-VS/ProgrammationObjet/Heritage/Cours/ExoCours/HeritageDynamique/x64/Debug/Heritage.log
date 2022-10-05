@@ -1,0 +1,4 @@
+﻿  fiche_4_1.cpp
+C:\Users\snir\source\repos\Info\VR\Programation\Héritage\ExoCours\HeritageDynamique\fiche_4_1.cpp(24,51): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\snir\source\repos\Info\VR\Programation\Héritage\ExoCours\HeritageDynamique\fiche_4_1.cpp(28,56): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Heritage.vcxproj -> C:\Users\snir\source\repos\Info\VR\Programation\Héritage\ExoCours\HeritageDynamique\x64\Debug\Heritage.exe

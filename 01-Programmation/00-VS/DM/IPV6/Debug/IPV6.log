@@ -1,0 +1,27 @@
+﻿  IPV6.cpp
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(28,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(30,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(40,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(42,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(44,26): error C2451: une expression conditionnelle de type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>' est non valide
+          with
+          [
+              _Ty=std::string
+          ]
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(44,24): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(55,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(57,17): warning C4018: '<' : incompatibilité signed/unsigned
+  Main.cpp
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(28,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(30,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(40,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(42,17): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(44,26): error C2451: une expression conditionnelle de type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>' est non valide
+          with
+          [
+              _Ty=std::string
+          ]
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(44,24): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(55,16): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\snir\source\repos\ProgramationV2\ClasseIPV6\IPV6\IPV6.cpp(57,17): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...

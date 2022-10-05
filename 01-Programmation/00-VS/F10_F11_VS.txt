@@ -1,0 +1,2 @@
+F10 --> On passe à la ligne suivante dans la même fonction
+F11 --> On rentre dans la fonction appelée
